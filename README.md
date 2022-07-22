@@ -1,6 +1,6 @@
 # lonelycat
 ## go home？
-# A
+# A-B
 # Hardware
 | Name | type | Code |
 |---|---|---|
